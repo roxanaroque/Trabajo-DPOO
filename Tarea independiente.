@@ -1,0 +1,13 @@
+Tarea independiente:
+
+@startuml
+class Temperatura {
+    - gradosC: double
+    + Temperatura()
+    + getGradosF(): double
+    + setGradosC(c: double): void
+}
+@enduml
+
+
+//www.plantuml.com/plantuml/png/SoWkIImgAStDuKhEIImkLWX9pIr8BKeiAIrALAZcKW02NONqeiIK_69dAuMK_DAad5Img3QoIWrDg5XwQeaxMB6RXYQQycAObBD6CamAgAOiFpE5gvRB8JKl1UW80000
